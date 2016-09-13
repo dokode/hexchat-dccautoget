@@ -4,7 +4,7 @@
 
 > For defining the granted nicknames start with the command 
 	
-		/help dccautoget.
+		/help dccautoget
 
 ## Installing ##
 
