@@ -50,15 +50,7 @@ def dcc_cb(word, word_eol, userdata, priority):
 		xchat.command("dcc get "+nick);
 		
 def format_list_str(l):
-	""" Transforms a list to a str with comma-separated elements  
-	"""
-	str =""
-	for i in range(0,len(l)):
-		if(l[i] != ""):
-			str += l[i]
-			if(i < len(l)-1):
-				str +=","
-	return str
+	return ','.join(l)
 		
 def dccautoget_add(nick,auto_nicks="", net = get_network()):
 	auto_nicks = auto_nicks.split(",")
