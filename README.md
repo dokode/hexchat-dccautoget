@@ -1,4 +1,4 @@
-# DCC Auto Get - Hexchat Addon
+# DCC Auto Get - HexChat Addon
 
 > Auto-allows dcc-get from specific nicknames and network.
 
@@ -23,7 +23,7 @@ For auto-loading, copy the script in your hexchat addon folder:
 + On Linux: ~/.config/hexchat/addons 
 + On other OS, find it!
 
-Alternatively you can (un)load a script manually through:
+Alternatively you can (un)load a script manually into HexChat through:
 
 The commands:
  
