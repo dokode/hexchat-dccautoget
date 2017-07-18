@@ -33,6 +33,12 @@ The commands:
  Or, the hexchat GUI: 
  
 		Window > Plugins and Scripts.
+		
+## Downloading HexChat ##
+
+If you don't know HexChat yet, this is an IRC client.
+
+[Follow this link to download HexChat.](https://hexchat.github.io/downloads.html)
 
 ## Contact ##
 
