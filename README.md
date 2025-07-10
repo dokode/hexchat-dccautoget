@@ -43,5 +43,5 @@ If you don't know HexChat yet, this is an IRC client.
 ## Contact ##
 
 hakim.hexchat 
-[[[a t]]] gmail
+[[[a t]]] ~~gmail~~proton.me
 
